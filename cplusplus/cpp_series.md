@@ -64,4 +64,3 @@ primitive data types:(size)
 how much memory does this variable occupy when it comes down to it?
 int - 4 bytes
 -2billion ~ 2billion
-
